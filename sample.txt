@@ -1,0 +1,8 @@
+Python is a high-level, interpreted programming language that is widely used for various purposes such as
+
+1. Web Development: Python is used in web development to build web applications and web services using popular frameworks like Django and Flask.
+2. Data Analysis and Science: Python is widely used in data analysis, machine learning, and scientific computing due to its simplicity and
+ the availability of libraries like NumPy, pandas, and scikit-learn.
+3. Artificial Intelligence and Robotics: Python is used in AI and robotics to build intelligent systems, computer vision, and 
+natural language processing.
+
